@@ -7,7 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/zyadateff" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+ <code>
+  <a href="https://www.linkedin.com/in/zyadateff" title="LinkedIn Profile"> <img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="vertical-align: middle;"> LinkedIn </a></code>
   <code><a href="https://www.facebook.com/share/18rV7un5ZT/" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"> Facebook</a></code>
   <code><a href="https://www.instagram.com/zyadateff?igsh=aG92dnh0c2F3MnVk" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"> Instagram</a></code>
 </h5>
